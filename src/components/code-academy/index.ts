@@ -10,3 +10,4 @@ export { Footer } from "./Footer";
 export { ScrollToTop } from "./ScrollToTop";
 export { VideoPlayer, VideoPlaylist } from "./VideoPlayer";
 export { LessonViewer } from "./LessonViewer";
+export { CourseViewer } from "./CourseViewer";
