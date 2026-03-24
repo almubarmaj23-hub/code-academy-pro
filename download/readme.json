@@ -1,0 +1,18 @@
+{
+  "code": 200,
+  "data": {
+    "description": "",
+    "html": "<html><head><meta name=\"color-scheme\" content=\"light dark\"></head><body><pre style=\"word-wrap: break-word; white-space: pre-wrap;\"># 🚀 Code Academy Pro\n\n<div align=\"center\">\n\n![Code Academy Pro](https://img.shields.io/badge/Code%20Academy-Pro-6c63ff?style=for-the-badge&logo=code&logoColor=white)\n![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)\n![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)\n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\n![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)\n\n**منصة تعلم البرمجة الأولى عربياً | متطورة، تفاعلية، ومجانية**\n\n[🌐 عرض مباشر](https://almubarmaj23-hub.github.io/code-academy-pro) • [🐛 الإبلاغ عن مشكلة](../../issues) • [⭐ نجمة](#)\n\n</div>\n\n---\n\n## ✨ المميزات الرئيسية\n\n| الميزة | الوصف |\n|--------|-------|\n| 🎨 **واجهة متطورة** | تصميم عصري مع تأثيرات بصرية وجزيئات متحركة |\n| 🌙 **الوضع الليلي/النهاري** | دعم كامل لوضعي Dark/Light Mode |\n| 💻 **محرر كود تفاعلي** | كتابة وتشغيل HTML/CSS/JS مباشرة في المتصفح |\n| 📚 **6 دورات متكاملة** | من الأساسيات إلى الذكاء الاصطناعي |\n| 🗺️ **خارطة الطريق** | مسار واضح من المبتدئ إلى المحترف |\n| 🧩 **اختبارات تفاعلية** | 5 أسئلة لتقييم مستواك |\n| 📱 **تصميم متجاوب** | يعمل على جميع الأجهزة |\n| 🔢 **إحصائيات حية** | عدادات متحركة لإحصاءات المنصة |\n\n## 📸 لقطات الشاشة\n\n### الصفحة الرئيسية\n- Hero Section مع تأثير الكتابة التلقائية\n- شارات تقنيات طافية\n- أرقام إحصائية متحركة\n\n### أقسام الموقع\n1. **🏠 الرئيسية** - Hero + ميزات المنصة\n2. **📚 الدورات** - 6 دورات مع فلترة تفاعلية\n3. **🗺️ خارطة الطريق** - 5 مراحل للاحتراف\n4. **💻 المحرر** - Live Code Editor\n5. **🧩 الاختبارات** - Quiz تفاعلي\n6. **📊 الإحصائيات** - أرقام المنصة\n\n## 🛠️ التقنيات المستخدمة\n\n- **HTML5** - هيكل الصفحة الدلالي\n- **CSS3** - تصميم متقدم مع Animations, Grid, Flexbox\n- **Vanilla JavaScript** - تفاعلية كاملة بدون frameworks\n- **Font Awesome 6** - أيقونات احترافية\n- **Google Fonts (Tajawal + Fira Code)** - خطوط عربية وكود\n\n## 🚀 التشغيل المحلي\n\n```bash\ngit clone https://github.com/almubarmaj23-hub/code-academy-pro.git\ncd code-academy-pro\n# افتح index.html في المتصفح\n```\n\n## 🌐 النشر على GitHub Pages\n\n1. اذهب إلى **Settings → Pages**\n2. اختر **Deploy from a branch**\n3. اختر **main branch**\n4. انقر **Save**\n5. الموقع سيكون متاحاً على: `https://almubarmaj23-hub.github.io/code-academy-pro`\n\n## 📁 هيكل المشروع\n\n```\ncode-academy-pro/\n├── 📄 index.html      # الصفحة الرئيسية\n├── 🎨 style.css       # الأنماط والتصميم\n├── ⚡ script.js       # التفاعلية والمنطق\n└── 📖 README.md       # التوثيق\n```\n\n## 🤝 المساهمة\n\nالمساهمات مرحب بها! يرجى:\n1. Fork المشروع\n2. إنشاء branch جديد\n3. Commit التغييرات\n4. فتح Pull Request\n\n## 📄 الترخيص\n\nMIT License — استخدم حر بشرط الإشارة للمصدر.\n\n---\n\n<div align=\"center\">\nصُنع بـ ❤️ للمتعلمين العرب | Code Academy Pro © 2026\n</div>\n</pre></body></html>",
+    "title": "",
+    "url": "https://raw.githubusercontent.com/almubarmaj23-hub/code-academy-pro/main/README.md",
+    "usage": {
+      "tokens": 1480
+    }
+  },
+  "meta": {
+    "usage": {
+      "tokens": 1480
+    }
+  },
+  "status": 20000
+}

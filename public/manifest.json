@@ -1,0 +1,35 @@
+{
+  "name": "Code Academy Pro",
+  "short_name": "CodeAcademy",
+  "description": "منصة عربية متكاملة لتعلم البرمجة من الصفر للمحترفين",
+  "start_url": "/code-academy-pro/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0a1a",
+  "theme_color": "#6c63ff",
+  "icons": [
+    {
+      "src": "/code-academy-pro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/code-academy-pro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "programming", "arabic", "web development"],
+  "lang": "ar",
+  "dir": "rtl",
+  "scope": "/code-academy-pro/",
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "تعلم البرمجة",
+      "short_name": "تعلم",
+      "url": "/code-academy-pro/",
+      "icons": [{ "src": "/code-academy-pro/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
